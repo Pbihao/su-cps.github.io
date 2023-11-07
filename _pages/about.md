@@ -29,23 +29,6 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">CVPR 2023</div>
-  <img src='images\fig\CVPR-2023-PBH.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Hierarchical Dense Correlation Distillation for Few-Shot Segmentation**
-
-***Bohao Peng**, Zhuotao Tian, Xiaoyang Wu, Chengyao Wang, Shu Liu, <u>**Jingyong Su**</u>, Jiaya Jia*
-
-**Heightlight Paper**  (2.5% acceptance rate)
-
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Hierarchical_Dense_Correlation_Distillation_for_Few-Shot_Segmentation_CVPR_2023_paper.pdf) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Hierarchical_Dense_Correlation_Distillation_for_Few-Shot_Segmentation_CVPR_2023_paper.pdf) [[Code]](https://github.com/Pbihao/HDMNet)
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
 <div class="badge">ICCV 2023</div>
   <img src='images/fig/ICCV-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,6 +38,24 @@ redirect_from:
 *Zhuofan Zong\*, Dongzhi Jiang\*, Guanglu Song, Zeyue Xue, <u>Jingyong Su</u>, **Hongsheng Li**, **Yu Liu***
 
 [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_Temporal_Enhanced_Training_of_Multi-view_3D_Object_Detector_via_Historical_ICCV_2023_paper.pdf) [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_Temporal_Enhanced_Training_of_Multi-view_3D_Object_Detector_via_Historical_ICCV_2023_paper.pdf) [[Code]](https://github.com/Sense-X/HoP)
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">CVPR 2023</div>
+  <img src='images\fig\CVPR-2023-PBH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchical Dense Correlation Distillation for Few-Shot Segmentation**
+
+***Bohao Peng**, Zhuotao Tian, Xiaoyang Wu, Chengyao Wang, Shu Liu, <u>**Jingyong Su**</u>, Jiaya Jia*
+
+**Highlight Paper**  (2.5% acceptance rate)
+
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Hierarchical_Dense_Correlation_Distillation_for_Few-Shot_Segmentation_CVPR_2023_paper.pdf) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Hierarchical_Dense_Correlation_Distillation_for_Few-Shot_Segmentation_CVPR_2023_paper.pdf) [[Code]](https://github.com/Pbihao/HDMNet)
 </div>
 </div>
 
